@@ -28,7 +28,9 @@
         [self performSelectorOnMainThread:@selector(dataRetreived:) withObject:data waitUntilDone:YES];
     });
     
-    NSLog(@"%@", @"try to make a change");
+    NSLog(@"%@", @"try to make a first change");
+    
+    NSLog(@"%@", @"try to make a second change");
 }
 
 - (void)didReceiveMemoryWarning
