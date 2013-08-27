@@ -30,7 +30,7 @@
     
     NSLog(@"%@", @"try to make a first change");
     
-    NSLog(@"%@", @"try to push");
+    NSLog(@"%@", @"try to push back to github");
 }
 
 - (void)didReceiveMemoryWarning
