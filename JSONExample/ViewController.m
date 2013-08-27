@@ -29,8 +29,8 @@
     });
     
     NSLog(@"%@", @"try to make a first change");
-
-    NSLog(@"%@", @"test using sourcetree");
+    
+    NSLog(@"%@", @"try to sync to github");
 }
 
 - (void)didReceiveMemoryWarning
