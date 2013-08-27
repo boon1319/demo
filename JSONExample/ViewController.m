@@ -30,7 +30,7 @@
     
     NSLog(@"%@", @"try to make a first change");
     
-    NSLog(@"%@", @"try to sync to github");
+    NSLog(@"%@", @"try to sync from sourcetree");
 }
 
 - (void)didReceiveMemoryWarning
