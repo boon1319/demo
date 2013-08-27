@@ -29,8 +29,6 @@
     });
     
     NSLog(@"%@", @"try to make a first change");
-    
-    NSLog(@"%@", @"try to make a second change");
 }
 
 - (void)didReceiveMemoryWarning
