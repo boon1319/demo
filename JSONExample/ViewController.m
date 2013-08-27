@@ -27,6 +27,8 @@
         
         [self performSelectorOnMainThread:@selector(dataRetreived:) withObject:data waitUntilDone:YES];
     });
+    
+    NSLog(@"%@", @"try to make a change");
 }
 
 - (void)didReceiveMemoryWarning
